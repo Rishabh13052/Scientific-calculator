@@ -10,6 +10,9 @@ A scientific calculator is a type of calculator, usually designed to calculate p
 6. To find the value of various log function.
 7. To convert binary to decimal, decimal to binary value and other conversion as well.
 
+## Used Technology 
+# Java,AWT,Java Swing.
+
 ## Coming Soon....
 1. Better GUI
 2. Store the History up to last 10 steps.
