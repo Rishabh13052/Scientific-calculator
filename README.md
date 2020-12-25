@@ -3,9 +3,9 @@ A scientific calculator is a type of calculator, usually designed to calculate p
 
 ## It consist all the scientific function
 1. Simple Calculator.
-2. to calculate the trignometric function value.
-3. to calculate the inverse trignometric function value.
-4.to calculate the Hyperbolic trignometric function value.
-5.to calculate the value of cubic/quadratic equation.
-6.to find the value of various log function.
-7.to convert binary to decimal, decimal to binary value and other conversion as well.
+2. To calculate the trignometric function value.
+3. To calculate the inverse trignometric function value.
+4. To calculate the Hyperbolic trignometric function value.
+5. To calculate the value of cubic/quadratic equation.
+6. To find the value of various log function.
+7. To convert binary to decimal, decimal to binary value and other conversion as well.
